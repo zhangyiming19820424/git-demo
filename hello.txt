@@ -1,1 +1,3 @@
 hello.etc helloworld
+hello everybody 
+hello i am git
